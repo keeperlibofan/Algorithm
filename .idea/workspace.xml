@@ -50,13 +50,31 @@
       <config projectName="leetcode" targetName="leetcode" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ae561ce-f389-48ac-a885-dace6cf4f3bf" name="Default" comment="" />
+    <list default="true" id="1ae561ce-f389-48ac-a885-dace6cf4f3bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Union-Find.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/leetcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/514.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/514.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/743.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/743.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/FordFulkerson.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/FordFulkerson.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Kruskal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kruskal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/MaximumBipartiteMatching.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumBipartiteMatching.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Union-Find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/disign.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/disign.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/disign.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/disign.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/minCut.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/minCut.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/primMST.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/primMST.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,11 +86,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Kruskal.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/Kruskal.cpp">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+            <state relative-caret-position="225">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <element signature="e#40#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kruskal.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Kruskal.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
               <folding>
                 <element signature="e#321#340#0" expanded="true" />
               </folding>
@@ -80,26 +110,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Union-Find.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design/Union-Find.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="disign.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/disign.h">
+        <entry file="file://$PROJECT_DIR$/src/disign.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
@@ -116,6 +128,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -128,9 +143,13 @@
         <option value="$PROJECT_DIR$/design/minCut.cpp" />
         <option value="$PROJECT_DIR$/design/FordFulkerson.cpp" />
         <option value="$PROJECT_DIR$/design/primMST.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/design/Kruskal.cpp" />
         <option value="$PROJECT_DIR$/design/Union-Find.cpp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Union-Find.cpp" />
+        <option value="$PROJECT_DIR$/src/Union-Find.c" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/src/Kruskal.cpp" />
       </list>
     </option>
   </component>
@@ -147,6 +166,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,7 +183,7 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +229,12 @@
       <workItem from="1536576285905" duration="4780000" />
       <workItem from="1538402674258" duration="2825000" />
       <workItem from="1538806751143" duration="30129000" />
-      <workItem from="1540276082098" duration="3861000" />
+      <workItem from="1540276082098" duration="8310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41595000" />
+    <option name="totallyTimeSpent" value="46044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -227,9 +247,9 @@
       <window_info anchor="bottom" id="TeamCity" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.12" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,25 +269,25 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design/primMST.cpp">
+    <entry file="file://$PROJECT_DIR$/src/primMST.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.h">
+    <entry file="file://$PROJECT_DIR$/src/disign.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/Kruskal.cpp">
+    <entry file="file://$PROJECT_DIR$/src/Kruskal.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
@@ -284,7 +304,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/743.cpp">
+    <entry file="file://$PROJECT_DIR$/src/743.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
@@ -294,21 +314,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.cpp">
+    <entry file="file://$PROJECT_DIR$/src/disign.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.h">
+    <entry file="file://$PROJECT_DIR$/src/disign.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/514.cpp">
+    <entry file="file://$PROJECT_DIR$/src/514.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="37" selection-end-column="2" />
@@ -319,17 +339,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.cpp">
+    <entry file="file://$PROJECT_DIR$/src/disign.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.h">
+    <entry file="file://$PROJECT_DIR$/src/disign.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
@@ -341,10 +364,10 @@
         <state relative-caret-position="-304" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.h">
+    <entry file="file://$PROJECT_DIR$/src/disign.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
@@ -389,7 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/743.cpp">
+    <entry file="file://$PROJECT_DIR$/src/743.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
@@ -402,31 +425,17 @@
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/514.cpp">
+    <entry file="file://$PROJECT_DIR$/src/514.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/disign.cpp">
+    <entry file="file://$PROJECT_DIR$/src/disign.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/MaximumBipartiteMatching.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -435,7 +444,7 @@
         <state relative-caret-position="-6" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/minCut.cpp">
+    <entry file="file://$PROJECT_DIR$/src/minCut.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
@@ -452,16 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/FordFulkerson.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-          <folding>
-            <element signature="e#45#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/utility">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -469,34 +468,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/primMST.cpp">
+    <entry file="file://$PROJECT_DIR$/src/primMST.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/Kruskal.cpp">
+    <entry file="file://$PROJECT_DIR$/src/Union-Find.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        <state relative-caret-position="379">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <element signature="e#321#340#0" expanded="true" />
+            <element signature="e#40#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/Union-Find.cpp">
+    <entry file="file://$PROJECT_DIR$/src/MaximumBipartiteMatching.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="412">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FordFulkerson.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kruskal.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+          <folding>
+            <element signature="e#321#340#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

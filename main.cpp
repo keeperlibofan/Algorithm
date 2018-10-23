@@ -1,7 +1,7 @@
 // Created by seadream on 2018/10/1.
 //
-
-#include "design/Kruskal.cpp"
+#include <iostream>
+#include "src/Kruskal.cpp"
 
 using namespace std;
 

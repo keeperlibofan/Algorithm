@@ -65,14 +65,22 @@ struct DisjointSets {
 
     // Union by rank
     void merge(int x, int y) {
-        x = find(x), y = find(y);
+        int xroot = find(x), yroot = find(y);
 
-
+        // Make smaller tree a subtree of the other tree
+        if (rnk[xroot] < rnk[yroot]) {
+            parent[xroot] = yroot;
+        } else {
+            parent[yroot] = xroot;
+        }
+        if (rnk[yroot] == rnk[xroot]) {
+            rnk[xroot]++;
+        }
     }
 };
 
 // Functions returns weight of MST
-int Graph::KruskalMST() {
+int Graph::KruskalMST(){
     int mst_wt = 0; // 初始化结果
 
     // 基于边权重从小到大排列边
@@ -90,8 +98,15 @@ int Graph::KruskalMST() {
         int set_v = ds.find(v);
 
         // check 是否选中的边创造出了一个圈圈（当u和v处于同一个set时，就会产生圆圈）
+        if (set_u == set_v) {
+            continue;
+        } else {
+            cout << u << " - " << v << endl;
+            ds.merge(set_u, set_v);
+            mst_wt += it->first;
+        }
     }
-
+    return mst_wt;
 }
 
 //struct Edge {
