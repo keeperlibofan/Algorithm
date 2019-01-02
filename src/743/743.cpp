@@ -9,7 +9,7 @@
 using namespace std;
 
 
-class Solution743 {
+class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int N, int K) {
         int res = 0;

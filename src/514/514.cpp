@@ -8,7 +8,7 @@
 
 using namespace std;
 
-class Solution514 {
+class Solution {
 public:
     int findRotateSteps(string ring, string key) {
         int row = key.length(), col = ring.length();
