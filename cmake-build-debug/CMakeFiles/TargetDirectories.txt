@@ -1,3 +1,3 @@
-/Users/seadream/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/seadream/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/seadream/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir
+/Users/seadream/Desktop/Repository/Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/seadream/Desktop/Repository/Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seadream/Desktop/Repository/Algorithm/cmake-build-debug/CMakeFiles/leetcode.dir
