@@ -57,16 +57,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae561ce-f389-48ac-a885-dace6cf4f3bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/121_maxProfit/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/122_maxProfit2/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/488-Zuma Game/solution.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LIS.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grayCode/gary_coding.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxProfit/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/354_maxEnvelopes/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/393_validUtf8/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/42_TrappingRainWater/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/53_maxSubArray/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minimumTotal/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/514.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/514/514.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/743.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/743/743.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/488-Zuma Game/solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/488-ZumaGame/solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grayCode/gary_coding.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/grayCode/gary_coding.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +91,7 @@
         </entry>
       </file>
       <file leaf-file-name="solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/488-Zuma Game/solution.cpp">
+        <entry file="file://$PROJECT_DIR$/src/488-ZumaGame/solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" selection-start-line="3" selection-end-line="14" />
@@ -103,23 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gary_coding.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/grayCode/gary_coding.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#44#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/121_maxProfit/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/src/354_maxEnvelopes/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
               </folding>
@@ -128,7 +115,7 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/122_maxProfit2/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/src/393_validUtf8/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -140,40 +127,13 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/src/42_TrappingRainWater/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_size_t.h" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/sys/_types/_size_t.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_types.h" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/i386/_types.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disign.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/disign.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -216,10 +176,15 @@
         <option value="$PROJECT_DIR$/src/743/743.cpp" />
         <option value="$PROJECT_DIR$/src/488-Zuma Game/solution.cpp" />
         <option value="$PROJECT_DIR$/src/格雷编码/gary_coding.cpp" />
-        <option value="$PROJECT_DIR$/src/grayCode/gary_coding.cpp" />
         <option value="$PROJECT_DIR$/src/121_maxProfit/Solution.cpp" />
         <option value="$PROJECT_DIR$/src/122_maxProfit2/Solution.cpp" />
         <option value="$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp" />
+        <option value="$PROJECT_DIR$/src/53_maxSubArray/Solution.cpp" />
+        <option value="$PROJECT_DIR$/src/minimumTotal/Solution.cpp" />
+        <option value="$PROJECT_DIR$/src/grayCode/gary_coding.cpp" />
+        <option value="$PROJECT_DIR$/src/354_maxEnvelopes/Solution.cpp" />
+        <option value="$PROJECT_DIR$/src/393_validUtf8/Solution.cpp" />
+        <option value="$PROJECT_DIR$/src/42_TrappingRainWater/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -265,6 +230,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -309,12 +275,12 @@
       <workItem from="1540276082098" duration="10282000" />
       <workItem from="1540523459581" duration="437000" />
       <workItem from="1540799670774" duration="330000" />
-      <workItem from="1546361354548" duration="7115000" />
+      <workItem from="1546361354548" duration="22373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55898000" />
+    <option name="totallyTimeSpent" value="71156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -353,48 +319,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/disign.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/488-Zuma Game/solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#40#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LIS.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/disign.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/488-Zuma Game/solution.cpp">
+    <entry file="file://$PROJECT_DIR$/src/488-ZumaGame/solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
@@ -491,13 +416,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/disign.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file:///usr/local/include/png.h">
       <provider selected="true" editor-type-id="text-editor">
@@ -653,36 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/488-Zuma Game/solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="14" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grayCode/gary_coding.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/121_maxProfit/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="e#42#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -690,17 +578,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/i386/_types.h">
+    <entry file="file://$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/sys/_types/_size_t.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -714,10 +598,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/221_maximalSquare/Solution.cpp">
+    <entry file="file://$PROJECT_DIR$/src/53_maxSubArray/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#43#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/121_maxProfit/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grayCode/gary_coding.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/488-ZumaGame/solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="14" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sys/_types/_size_t.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/i386/_types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/disign.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/minimumTotal/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#43#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/354_maxEnvelopes/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/393_validUtf8/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/42_TrappingRainWater/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
           </folding>
