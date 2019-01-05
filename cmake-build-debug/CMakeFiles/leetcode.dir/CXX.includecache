@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seadream/Desktop/Repository/Algorithm/main.cpp
+iostream
+-
+src/47_permuteUnique/Solution.cpp
+/Users/seadream/Desktop/Repository/Algorithm/src/47_permuteUnique/Solution.cpp
+
+/Users/seadream/Desktop/Repository/Algorithm/src/47_permuteUnique/Solution.cpp
+iostream
+-
+vector
+-
+
